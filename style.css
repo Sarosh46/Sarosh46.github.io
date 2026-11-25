@@ -69,6 +69,7 @@ section {
     margin-bottom: 30px;
     border: 1px solid #24334f;
     border-radius: 14px;
+    scroll-margin-top: 90px;
 }
 
 section h2 {

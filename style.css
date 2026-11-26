@@ -139,9 +139,17 @@ footer {
         font-size: 34px;
     }
 
+    nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
     nav a {
         display: inline-block;
         margin: 7px;
+        padding: 12px 10px;
+        min-height: 44px;
         font-size: 14px;
     }
 
